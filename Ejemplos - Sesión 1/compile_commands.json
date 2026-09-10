@@ -1,0 +1,29 @@
+[{
+  "file": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo06",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo06\\main.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo06\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo05",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo05\\main.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo05\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo03",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo03\\main.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo03\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo02",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo02\\main.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo02\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo01",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo01\\main.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo01\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo04",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo04\\main.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\Ejemplo04\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\HolaMundo\\main.cpp",
+  "directory": "C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\HolaMundo",
+  "command": "clang++ -c \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\HolaMundo\\main.cpp\" -o \"C:\\Users\\lmcm1\\Desktop\\ESTRUCTURA DE DATOS\\HolaMundo\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
